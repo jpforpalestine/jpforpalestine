@@ -1,9 +1,11 @@
-site_name: JP For Palestine
+site_name: 🇵🇸 🍉❤️ JP For Palestine 
 site_url: https://jpforpalestine.github.io/jpforpalestine
+
 repo_url: https://github.com/jpforpalestine/jpforpalestine
+
 theme:
   name: material
-  logo: assets/jpforpalestine-logo.png
+  logo: assets/logo.png
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
