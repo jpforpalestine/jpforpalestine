@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "jpforpalestine-github-io"
+version = "0.1.0"
+description = "[WIP] Website for the JP For Palestine group (Boston MA USA)"
+authors = ["jonmatthis <jonmatthis@gmail.com>"]
+license = "AGPLv3+"
+readme = "README.md"
+packages = [{include = "jpforpalestine"}]
+
+[tool.poetry.dependencies]
+python = ">3.8, <3.13"
+mkdocs-material = "^9.5.31"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
