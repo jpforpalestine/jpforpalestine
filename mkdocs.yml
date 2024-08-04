@@ -1,5 +1,6 @@
 site_name: JP For Palestine
 site_url: https://jpforpalestine.github.io/jpforpalestine
+repo_url: https://github.com/jpforpalestine/jpforpalestine
 theme:
   name: material
   logo: assets/jpforpalestine-logo.png
