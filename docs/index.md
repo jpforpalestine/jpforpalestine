@@ -9,12 +9,11 @@ Our group is dedicated to the above principles and values, striving for a world 
 **Our Mission:** To locally organize around and for Palestinian liberation in our lifetime, while deepening our sense of community, to practice building the world we need and deserve.  
 
 ## **What We Want**
-
-#### 1.  Palestinian Self-Determination, Right to Return, permanent ceasefire, and an end to the genocide, apartheid, and occupation
+1.  **Palestinian Self-Determination, Right to Return, permanent ceasefire, and an end to the genocide, apartheid, and occupation**
     
-#### 2.  Divestment from militarization. 
+2.  **Divestment from militarization.**
    
-#### 3.  A free flow of information in the U.S. and globally and an end to censorship and suppression of dissent.
+3.  **A free flow of information in the U.S. and globally and an end to censorship and suppression of dissent.**
 
 ___
 
