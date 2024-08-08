@@ -1,6 +1,6 @@
 # **Jamaica Plain for Palestine** 
 
-Welcome to the homepage of the JP for Palestine group!
+Welcome to the homepage of the JP for Palestine group!!
 
 Our group is dedicated to the above principles and values, striving for a world where justice, dignity, and self-determination are realized for Palestinians and all oppressed peoples. 
 
