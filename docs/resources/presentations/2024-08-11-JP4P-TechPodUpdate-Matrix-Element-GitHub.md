@@ -5,10 +5,11 @@
 
 
 ## Why switch? 
-- Single Stream Communication is the devil
-  - Its like shouting in a crowded room
-  - Log-jam and overwhelm
-  
+Problems with current system: 
+- Single stream conversation in Signal don't scale to large groups
+- Signal chat per Pod hard to manage
+
+Needs: 
 - Multi-stream communication 
   - Allows compartmentalized conversations
   - Allows cascading access rules for better privacy control
@@ -16,5 +17,8 @@
     - JP4P Group Members: Folks who fill out crytpad and agree to Community statement
     - JP4P Pod Membership: Folks who join Pod-specific rooms
     - ...etc for Pod Leads, Space/Pod moderators, etc
+- "Single source of truth"
+  -   Agree
+
 
 
