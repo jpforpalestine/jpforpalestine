@@ -10,7 +10,7 @@
 
 ### Step 3: Join the JP4P Welcome Chat Room: [https://matrix.to/#/#jp4p-welcome:matrix.org](https://matrix.to/#/#jp4p-welcome:matrix.org)
 
-### Step 4: Fill out Cryptpad sign-up form in [the "Welcome" message])
+### Step 4: Fill out Cryptpad sign-up form in the "Welcome" message in that Room
 
 QR Code Link to "Welcome Message"
 
