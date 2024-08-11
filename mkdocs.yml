@@ -24,3 +24,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+  nav:
+    - Home: index.md
+    - Onboarding: onboarding/index.md
+    - Resources: resources/index.md
