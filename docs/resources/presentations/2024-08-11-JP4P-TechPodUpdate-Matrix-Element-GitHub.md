@@ -26,6 +26,13 @@ We need:
 - GH-based Project plannning
 - Moderation team
 - Org/Pod organzation and plans
+  - Tech Pod as an example/case study
+    - Lead: Me
+    - Role: Maintain/improve JP4P technical infrastructure
+    - Onboarding docs:
+      -  [TBD]
+    - Current Projects:
+      -  ["JP4P 2.0"](https://github.com/jpforpalestine/jpforpalestine/milestone/1)
   
 
 
