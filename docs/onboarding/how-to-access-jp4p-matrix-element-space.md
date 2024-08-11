@@ -10,12 +10,18 @@
 
 ### Step 3: Join the JP4P Welcome Chat Room: [https://matrix.to/#/#jp4p-welcome:matrix.org](https://matrix.to/#/#jp4p-welcome:matrix.org)
 
-### Step 4: Fill out Cryptpad sign-up form in [the "Welcome" message](https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc?via=matrix.org)
+### Step 4: Fill out Cryptpad sign-up form in [the "Welcome" message])
 
-![alt text](image.png)
+QR Code Link to "Welcome Message"
 
-### Step 6: A member of the JP4P Space will invite you to the main JP4P Space and "JP4P General Chat" room
+![alt text](../assets/jp4p-welcome-room-qr-link.png)
 
-### Step 5: Join desired JP4P Rooms!
+> Direct link to message, if QR code doesn't work
+>
+> [https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc](https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc)
+
+### Step 5: A member of the JP4P Space will invite you to the main JP4P Space and "JP4P General Chat" room
+
+### Step 6: Join desired JP4P Rooms!
 
 > NOTE: Some rooms are invite only (e.g. `JP4P Planning Pod`, and `JP4P Moderator Chat`)
