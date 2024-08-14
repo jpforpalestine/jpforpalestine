@@ -18,6 +18,7 @@ QR Code Link to "Welcome Message"
 > [https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc](https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc)
 > 
 > **QR Code link to 'Welcome' Message**
+> 
 > ![alt text](../assets/jp4p-welcome-room-qr-link.png)
 
 
