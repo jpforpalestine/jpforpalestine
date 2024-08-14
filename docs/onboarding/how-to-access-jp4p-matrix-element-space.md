@@ -14,11 +14,12 @@
 
 QR Code Link to "Welcome Message"
 
-![alt text](../assets/jp4p-welcome-room-qr-link.png)
-
-> Direct link to message, if QR code doesn't work
->
+> ### Link to 'Welcome' message
 > [https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc](https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc)
+> 
+> **QR Code link to 'Welcome' Message**
+> ![alt text](../assets/jp4p-welcome-room-qr-link.png)
+
 
 ### Step 5: A member of the JP4P Space will invite you to the main JP4P Space and "JP4P General Chat" room
 
