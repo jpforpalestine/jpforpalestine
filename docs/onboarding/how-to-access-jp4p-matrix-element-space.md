@@ -12,8 +12,6 @@
 
 ### Step 4: Fill out Cryptpad sign-up form in the "Welcome" message in that Room
 
-QR Code Link to "Welcome Message"
-
 > ### Link to 'Welcome' message
 > [https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc](https://matrix.to/#/!jzfYAgYuNkafVExInX:matrix.org/$74aDqzRy54VayAq7XqsZMJQxC4hgVSnt8E43-_QxKqc)
 > 
